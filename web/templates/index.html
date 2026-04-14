@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Chatbot - ChatGPT-like Interface</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1>AI Chatbot</h1>
+                <button id="newChatBtn" class="btn-new-chat">
+                    <span>+ New Chat</span>
+                </button>
+            </div>
+            
+            <div class="sessions-list">
+                <h3>Conversations</h3>
+                <ul id="sessionsList"></ul>
+            </div>
+            
+            <div class="sidebar-footer">
+                <button id="clearBtn" class="btn-clear">Clear History</button>
+                <div id="statsDisplay" class="stats-display"></div>
+            </div>
+        </aside>
+        
+        <!-- Main Chat Area -->
+        <main class="chat-container">
+            <!-- Chat Header -->
+            <header class="chat-header">
+                <h2 id="sessionTitle">AI Chatbot</h2>
+                <div class="header-actions">
+                    <span id="statusIndicator" class="status-indicator">●</span>
+                </div>
+            </header>
+            
+            <!-- Messages Display -->
+            <div id="messagesContainer" class="messages-container">
+                <div class="welcome-message">
+                    <h2>Welcome to AI Chatbot</h2>
+                    <p>Start a conversation by typing your message below.</p>
+                </div>
+            </div>
+            
+            <!-- Input Area -->
+            <footer class="chat-footer">
+                <form id="messageForm" class="message-form">
+                    <div class="input-group">
+                        <input 
+                            type="text" 
+                            id="messageInput" 
+                            placeholder="Type your message..." 
+                            class="message-input"
+                            autocomplete="off"
+                        >
+                        <button type="submit" id="sendBtn" class="btn-send">
+                            <span>Send</span>
+                        </button>
+                    </div>
+                </form>
+                <div class="input-info">
+                    <small id="tokenCount">Tokens: 0</small>
+                </div>
+            </footer>
+        </main>
+    </div>
+    
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

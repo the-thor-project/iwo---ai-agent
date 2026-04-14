@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Project-specific
+data/conversations.db
+logs/
+*.log
+cli_history.txt
+.env
+.env.local
+
+# C Extension
+*.o
+*.so
+*.dll
+*.dylib
+*.pyd
+c_extension/build/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node modules (if using npm for frontend)
+node_modules/
+package-lock.json

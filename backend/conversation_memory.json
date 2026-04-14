@@ -1,0 +1,304 @@
+{
+  "session_20260411": [
+    {
+      "timestamp": "2026-04-11T18:18:16.637979",
+      "user_input": "can you coding?",
+      "response": "it more am am on what can by math information can machine for information that python by detail information more tasks by information math what by math information on python am that information by hi ai no programming are is code creative learning brainstorm information how why i information am information on python ai do",
+      "intent": "programming"
+    },
+    {
+      "timestamp": "2026-04-11T18:18:16.961647",
+      "user_input": "tell me about python",
+      "response": "ai information which [UNK] about with on local about",
+      "intent": "programming"
+    },
+    {
+      "timestamp": "2026-04-11T18:21:15.396848",
+      "user_input": "hello",
+      "response": "Welcome! I'm IWO, designed to help you with any questions or tasks.",
+      "intent": "greeting"
+    },
+    {
+      "timestamp": "2026-04-11T18:21:29.317683",
+      "user_input": "what and... who are you?",
+      "response": "I'm IWO, a fully self-contained local AI assistant built to think, learn, and assist without any external API or cloud dependency. I run entirely inside this application using local NLP, memory, and knowledge base systems.",
+      "intent": "identity"
+    },
+    {
+      "timestamp": "2026-04-11T18:21:50.474653",
+      "user_input": "realy?",
+      "response": "That's a good question. Can you tell me a bit more about what you want to know?",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T18:22:21.378436",
+      "user_input": "you realy ai ?",
+      "response": "when programming creative information this detail information for information with science detail and with using [BOS] it do need about science which that learn information writing model what which am no is about hi you you using this creative the more where explain how external what is",
+      "intent": "technology"
+    },
+    {
+      "timestamp": "2026-04-11T18:22:36.139278",
+      "user_input": "what?",
+      "response": "What exactly are you asking about? A little more detail will help me answer it.",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T18:24:24.480600",
+      "user_input": "hello",
+      "response": "Hi there! I'm IWO, ready to assist you with anything you need.",
+      "intent": "greeting"
+    },
+    {
+      "timestamp": "2026-04-11T18:24:24.481431",
+      "user_input": "what and... who are you?",
+      "response": "I'm IWO, a fully self-contained local AI assistant built to think, learn, and assist without any external API or cloud dependency. I run entirely inside this application using local NLP, memory, and knowledge base systems.",
+      "intent": "identity"
+    },
+    {
+      "timestamp": "2026-04-11T18:24:24.482049",
+      "user_input": "realy?",
+      "response": "What exactly are you asking about? A little more detail will help me answer it.",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T18:24:24.482650",
+      "user_input": "you realy ai ?",
+      "response": "I'm IWO, a fully self-contained local AI assistant built to think, learn, and assist without any external API or cloud dependency. I run entirely inside this application using local NLP, memory, and knowledge base systems.",
+      "intent": "identity"
+    },
+    {
+      "timestamp": "2026-04-11T18:24:24.483298",
+      "user_input": "what?",
+      "response": "What exactly are you asking about? A little more detail will help me answer it.",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T18:24:32.803097",
+      "user_input": "you realy ai ?",
+      "response": "I'm IWO, a fully self-contained local AI assistant built to think, learn, and assist without any external API or cloud dependency. I run entirely inside this application using local NLP, memory, and knowledge base systems.",
+      "intent": "identity"
+    },
+    {
+      "timestamp": "2026-04-11T18:24:35.211663",
+      "user_input": "when programming creative information this detail information for information with science detail and with using [BOS] it do need about science which that learn information writing model what which am no is about hi you you using this creative the more where explain how external what is",
+      "response": "hello by you hi python explain writing where about answer which help information",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T18:25:02.438199",
+      "user_input": "you realy ai ?",
+      "response": "I'm IWO, a fully self-contained local AI assistant built to think, learn, and assist without any external API or cloud dependency. I run entirely inside this application using local NLP, memory, and knowledge base systems.",
+      "intent": "identity"
+    },
+    {
+      "timestamp": "2026-04-11T18:25:02.438992",
+      "user_input": "what and... who are you?",
+      "response": "I'm IWO, a fully self-contained local AI assistant built to think, learn, and assist without any external API or cloud dependency. I run entirely inside this application using local NLP, memory, and knowledge base systems.",
+      "intent": "identity"
+    },
+    {
+      "timestamp": "2026-04-11T18:25:02.439714",
+      "user_input": "realy?",
+      "response": "Can you give me a little more context so I can answer clearly?",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T18:25:02.440340",
+      "user_input": "what?",
+      "response": "That's a good question. Can you tell me a bit more about what you want to know?",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T18:25:04.798873",
+      "user_input": "when programming creative information this detail information for information with science detail and with using [BOS] it do need about science which that learn information writing model what which am no is about hi you you using this creative the more where explain how external what is",
+      "response": "answer that explain local [BOS] and python are for do science why python",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T18:25:42.250849",
+      "user_input": "you realy ai ?",
+      "response": "I'm IWO, a fully self-contained local AI assistant built to think, learn, and assist without any external API or cloud dependency. I run entirely inside this application using local NLP, memory, and knowledge base systems.",
+      "intent": "identity"
+    },
+    {
+      "timestamp": "2026-04-11T18:25:42.251866",
+      "user_input": "what and... who are you?",
+      "response": "I'm IWO, a fully self-contained local AI assistant built to think, learn, and assist without any external API or cloud dependency. I run entirely inside this application using local NLP, memory, and knowledge base systems.",
+      "intent": "identity"
+    },
+    {
+      "timestamp": "2026-04-11T18:25:42.252742",
+      "user_input": "realy?",
+      "response": "What exactly are you asking about? A little more detail will help me answer it.",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T18:25:42.253420",
+      "user_input": "what?",
+      "response": "I'm happy to explain - can you narrow that down a bit?",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T18:25:42.254189",
+      "user_input": "when programming creative information this detail information for information with science detail and with using [BOS] it do need about science which that learn information writing model what which am no is about hi you you using this creative the more where explain how external what is",
+      "response": "Great question! I'll do my best to give you a detailed and helpful response:",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T19:01:56.920134",
+      "user_input": "hello",
+      "response": "Welcome! I'm IWO, designed to help you with any questions or tasks.",
+      "intent": "greeting"
+    },
+    {
+      "timestamp": "2026-04-11T19:02:06.769821",
+      "user_input": "can you coding?",
+      "response": "I can help with that. Please tell me more about what you need.",
+      "intent": "programming"
+    },
+    {
+      "timestamp": "2026-04-11T19:02:23.440645",
+      "user_input": "create a basic javascript code",
+      "response": "[BOS] who hi math am with how brainstorm python machine creative what about brainstorm python is am and that python more model i learn do brainstorm is answer explain\n\nWould you like more detail on that?",
+      "intent": "programming"
+    },
+    {
+      "timestamp": "2026-04-11T19:28:24.316990",
+      "user_input": "hello",
+      "response": "Welcome! I'm IWO, designed to help you with any questions or tasks.",
+      "intent": "greeting"
+    },
+    {
+      "timestamp": "2026-04-11T19:28:32.487559",
+      "user_input": "who are you?",
+      "response": "I'm IWO, a fully self-contained local AI assistant built to think, learn, and assist without any external API or cloud dependency. I run entirely inside this application using local NLP, memory, and knowledge base systems.",
+      "intent": "identity"
+    },
+    {
+      "timestamp": "2026-04-11T19:28:35.494039",
+      "user_input": "ok",
+      "response": "That makes sense.",
+      "intent": "acknowledgment"
+    },
+    {
+      "timestamp": "2026-04-11T19:29:11.124675",
+      "user_input": "what \"makes sense\" \ud83d\ude02",
+      "response": "Great question! I'll do my best to give you a detailed and helpful response:",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T19:29:57.019437",
+      "user_input": "what makes sense?",
+      "response": "what and on and for more by hi by information am api information information math you do task api hi model what for code information using you am a why detail learn programming for for with",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T19:30:22.325734",
+      "user_input": "what makes sense?",
+      "response": "That means I understand your point and I think the idea is clear. If you'd like, tell me which part you'd like me to explain further.",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T21:38:35.858904",
+      "user_input": "hello, iwo!",
+      "response": "Hello! I'm IWO, your advanced AI assistant. How can I help you today?",
+      "intent": "greeting"
+    },
+    {
+      "timestamp": "2026-04-11T21:38:52.453307",
+      "user_input": "tell me - who are you?",
+      "response": "I'm IWO, a fully self-contained local AI assistant built to think, learn, and assist without any external API or cloud dependency. I run entirely inside this application using local NLP, memory, and knowledge base systems.",
+      "intent": "identity"
+    },
+    {
+      "timestamp": "2026-04-11T21:38:57.595292",
+      "user_input": "ok!",
+      "response": "Got it. \ud83d\udc4d",
+      "intent": "acknowledgment"
+    },
+    {
+      "timestamp": "2026-04-11T21:39:03.556340",
+      "user_input": "and...",
+      "response": "I can help you explore this further. What specific aspect interests you?",
+      "intent": "default"
+    },
+    {
+      "timestamp": "2026-04-11T21:39:15.044342",
+      "user_input": "can you coding?",
+      "response": "to python information code do ai python and information no help is [BOS] information",
+      "intent": "programming"
+    },
+    {
+      "timestamp": "2026-04-11T21:39:40.426446",
+      "user_input": "what?",
+      "response": "Can you give me a little more context so I can answer clearly? \ud83d\udc4d",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T21:39:43.822516",
+      "user_input": "no",
+      "response": "That's a fascinating topic! I'd love to explore it with you.",
+      "intent": "default"
+    },
+    {
+      "timestamp": "2026-04-11T21:40:44.727250",
+      "user_input": "hello, and what the hell, who are you!?",
+      "response": "I'm IWO, a fully self-contained local AI assistant built to think, learn, and assist without any external API or cloud dependency. I run entirely inside this application using local NLP, memory, and knowledge base systems.",
+      "intent": "identity"
+    },
+    {
+      "timestamp": "2026-04-11T21:41:15.970056",
+      "user_input": "are you have a brain?",
+      "response": "[PAD] using information",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T21:41:27.643852",
+      "user_input": "what?!",
+      "response": "I understand your question perfectly. Here's what I can tell you:",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T21:41:32.604215",
+      "user_input": "[PAD] using information",
+      "response": "That's a fascinating topic! I'd love to explore it with you.",
+      "intent": "default"
+    },
+    {
+      "timestamp": "2026-04-11T21:41:52.249393",
+      "user_input": "how many old are you?",
+      "response": "Great question! I'll do my best to give you a detailed and helpful response:",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T21:42:23.566180",
+      "user_input": "and the detailed of the question is:",
+      "response": "hi [UNK] explain in by where information information you help do in in that using ai information information science are it that for science you when are no and using tasks are ai [UNK] why language information this python more how python want information is more you when why information no using explain it the by when when more why why",
+      "intent": "default"
+    },
+    {
+      "timestamp": "2026-04-11T21:44:15.678184",
+      "user_input": "clear",
+      "response": "That's worth discussing! Let me provide some insights.",
+      "intent": "default"
+    },
+    {
+      "timestamp": "2026-04-11T21:44:30.743577",
+      "user_input": "hello! i am saar.",
+      "response": "Welcome! I'm IWO, designed to help you with any questions or tasks.",
+      "intent": "greeting"
+    },
+    {
+      "timestamp": "2026-04-11T21:44:45.417026",
+      "user_input": "can you build?",
+      "response": "Great question! I'll do my best to give you a detailed and helpful response:",
+      "intent": "question"
+    },
+    {
+      "timestamp": "2026-04-11T21:44:52.009931",
+      "user_input": "brue",
+      "response": "I appreciate you sharing that. Let me offer some thoughts.",
+      "intent": "default"
+    }
+  ]
+}

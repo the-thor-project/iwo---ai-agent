@@ -1,0 +1,38 @@
+{
+  "app": {
+    "name": "AI Chatbot",
+    "version": "1.0.0",
+    "debug": true
+  },
+  "backend": {
+    "host": "localhost",
+    "port": 5000,
+    "workers": 4,
+    "timeout": 30
+  },
+  "nlp": {
+    "model": "distilbert-base-uncased",
+    "max_tokens": 512,
+    "temperature": 0.7,
+    "top_p": 0.9
+  },
+  "database": {
+    "type": "sqlite",
+    "path": "data/conversations.db",
+    "auto_backup": true
+  },
+  "web": {
+    "port": 5000,
+    "debug": true,
+    "session_timeout": 3600
+  },
+  "cli": {
+    "history_file": "data/cli_history.txt",
+    "max_history": 1000
+  },
+  "system": {
+    "log_level": "INFO",
+    "log_file": "logs/app.log",
+    "max_log_size": 10485760
+  }
+}
