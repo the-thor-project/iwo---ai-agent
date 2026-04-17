@@ -1,4 +1,4 @@
-# AI Chatbot - ChatGPT-like System
+# iwo - LLM-local System
 
 A hybrid Python and C AI chatbot system with NLP capabilities, conversation history, web interface, and CLI.
 
