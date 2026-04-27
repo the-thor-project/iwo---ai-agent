@@ -69,7 +69,6 @@ ai-agent/
 ## Technology Stack
 
 - Python 3.8+
-- PyTorch/Transformers
 - Flask
 - SQLite
 - C (system operations)
