@@ -55,7 +55,28 @@ ai-agent/
    ```bash
    python web/app.py
    ```
+## bugs
+example to bug:
+```iwo
+You: who build you?
+                                                                                                                        Bot: 2026-06-15 18:24:46,654 - nlp_engine - INFO - IWO generated advanced response for intent: question (confidence: 0.8
+4, style=concise)
+2026-06-15 18:24:46,657 - app - INFO - Message processed for user cli_user
+I understand your question perfectly. Here's what I can tell you:                                                       
+You: and you can tell me...
 
+Bot: 2026-06-15 18:25:13,330 - nlp_engine - INFO - IWO generated advanced response for intent: default (confidence: 0.50
+, style=friendly)
+2026-06-15 18:25:13,334 - app - INFO - Message processed for user cli_user                                              using you ai you task task task task ai task ai ai task task ai task ai ai task task ai task task you task task ai task
+task ai task ai ai math task task task task task task a task ai task ai ai task ai task task ai ai task task task task t
+ask ai task task task task task api                                                                                                                                                                                                             Anything else you want to explore? ✨
+
+You: no
+
+Bot: 2026-06-15 18:25:36,165 - nlp_engine - INFO - IWO generated advanced response for intent: default (confidence: 0.50
+, style=friendly)                                                                                                       2026-06-15 18:25:36,169 - app - INFO - Message processed for user cli_user
+I appreciate you sharing that. Let me offer some thoughts.
+```
 ## Features
 
 - Conversational AI powered by transformers
