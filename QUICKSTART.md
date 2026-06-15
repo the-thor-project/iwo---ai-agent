@@ -3,8 +3,9 @@
 ## 1. Initial Setup (One-Time)
 
 ```bash
-cd c:\Users\Saar\ai-agent
+cd c:\Users\UserName\iwo---ai-agent/backend
 python setup.py
+cd ..
 ```
 
 ## 2. Choose Your Interface
